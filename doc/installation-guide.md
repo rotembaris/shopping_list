@@ -94,6 +94,8 @@ Visual Studio Code (VSCode) is a powerful and popular code editor that supports 
 
 > 💡**Term**: IDE stands for Integrated Development Environment, which is a software application that provides comprehensive facilities to programmers for software development. It typically includes a code editor, debugger, and build automation tools.
 
+### Installing VSCode
+
 First, you need to download VSCode from the [official VSCode website](https://code.visualstudio.com/Download).
 
 > ❗Choose the version that matches your operating system (Windows, macOS, or Linux) - But you already know that, right? 😉
@@ -106,5 +108,34 @@ After downloading, run the installer and follow the instructions. Keep the defau
 
 After the installation is complete, Check the box that says `Launch Visual Studio Code` and click `Finish`.
 
-✅ Congratulations! You have successfully installed Visual Studio Code. You are now ready to start coding! 🤗
+### Cloning the Hackathon Repository
+This is the time to `clone` the Hackathon repository to your local machine. I actually not part of the installation ofr configuration, but there you will have some files that will help you with the next configuration steps.
+
+> 💡**Term**: Cloning a repository means creating a local copy of a remote repository. This allows you to work on the code locally and then `push` your changes back to the remote repository when you are done.
+
+First, you need to get the repository URL. Scan the QR code to get the repository main page URL on GitHub. Look for the green `Code` button and click on it. Copy the URL from the `HTTPS` tab.
+
+To clone the repository, inside VSCode, open the `command palette` by pressing `Ctrl + Shift + P` (or `Cmd + Shift + P` on macOS) and type `Git: Clone`. Select the `Git: Clone` option.
+
+> 💡**Tip:** The `
+
+
+
+### Installing Required Extensions
+VSCode extensions are add-ons that enhance the functionality of the editor adding suppoert for various programming languages, tools, and features.
+
+All the extentions
+
+#### Github Copilot and AI Chat
+
+#### Python Extensions
+
+#### Other Useful Extensions
+
+### Setting Up VSCode Configurations
+
+
+--- 
+
+✅ Congratulations! You have successfully installed Visual Studio Code and set it up for Python development. You are now ready to start coding! 🤗
 
